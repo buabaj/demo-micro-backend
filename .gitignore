@@ -1,6 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-.vscode/
+.vscode/*
 mande-env/
 *.py[cod]
 *$py.class
